@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/commons-net-3.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/hadoop-fairscheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/hadoop-thriftfs-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/kfs-0.2.2.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/hadoop-client-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/hadoop-core-1.2.1.jar" sourcepath="/usr/local/Cellar/hadoop/1.2.1/libexec"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/hadoop-minicluster-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/hadoop-test-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/1.2.1/libexec/hadoop-tools-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
